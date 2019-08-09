@@ -1,0 +1,9 @@
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
